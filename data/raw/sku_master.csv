@@ -1,0 +1,25 @@
+sku_id,sku_name,category,unit_cost,selling_price,lead_time_weeks,ordering_cost,annual_holding_rate,target_service_level,demand_profile
+SKU-001,Electronics Item 1,Electronics,27.97,49.97,5,148.95,0.274,0.95,Regular
+SKU-002,Electronics Item 2,Electronics,74.98,125.56,3,98.58,0.191,0.97,Regular
+SKU-003,Electronics Item 3,Electronics,169.66,237.32,5,97.34,0.218,0.95,Regular
+SKU-004,Electronics Item 4,Electronics,200.31,255.31,4,87.97,0.239,0.95,Regular
+SKU-005,Electronics Item 5,Electronics,72.04,105.67,3,104.16,0.18,0.95,Regular
+SKU-006,Electronics Item 6,Electronics,210.04,270.85,3,89.58,0.246,0.9,Intermittent
+SKU-007,Fasteners Item 1,Fasteners,45.17,76.91,5,101.81,0.299,0.95,Regular
+SKU-008,Fasteners Item 2,Fasteners,16.5,24.82,6,77.86,0.197,0.95,Regular
+SKU-009,Fasteners Item 3,Fasteners,59.04,85.52,5,72.93,0.236,0.95,Regular
+SKU-010,Fasteners Item 4,Fasteners,147.6,251.85,6,78.62,0.265,0.95,Regular
+SKU-011,Fasteners Item 5,Fasteners,21.77,27.87,2,125.62,0.183,0.97,Regular
+SKU-012,Fasteners Item 6,Fasteners,120.51,215.36,2,89.18,0.184,0.95,Intermittent
+SKU-013,Packaging Item 1,Packaging,22.08,38.07,1,158.62,0.191,0.9,Regular
+SKU-014,Packaging Item 2,Packaging,40.01,70.11,1,157.78,0.256,0.97,Regular
+SKU-015,Packaging Item 3,Packaging,144.27,257.46,3,82.14,0.21,0.95,Regular
+SKU-016,Packaging Item 4,Packaging,30.96,40.86,2,177.57,0.254,0.97,Regular
+SKU-017,Packaging Item 5,Packaging,212.37,360.75,2,144.06,0.284,0.98,Regular
+SKU-018,Packaging Item 6,Packaging,125.24,175.21,6,54.85,0.276,0.95,Intermittent
+SKU-019,Plastics Item 1,Plastics,123.19,205.85,6,117.71,0.284,0.95,Regular
+SKU-020,Plastics Item 2,Plastics,18.05,22.81,1,164.83,0.209,0.95,Regular
+SKU-021,Plastics Item 3,Plastics,8.41,14.92,1,52.6,0.23,0.97,Regular
+SKU-022,Plastics Item 4,Plastics,70.12,124.42,1,154.01,0.296,0.97,Regular
+SKU-023,Plastics Item 5,Plastics,44.44,64.94,1,162.86,0.244,0.97,Regular
+SKU-024,Plastics Item 6,Plastics,62.49,104.76,6,51.82,0.18,0.95,Intermittent
